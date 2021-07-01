@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Veer!
 
-<!--
-**vmax258/vmax258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Student, Tech Enthusiast, Digital Artist, and Programmer with an eye for creativity.
 
-Here are some ideas to get you started:
+I am best at making websites and web apps and making scripts using Python.
+Aside from programming, I like photography, shooting tech-focused YouTube videos and making digital art for my Instagram page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Emailing] (mailto:vtube258@gmail.com?subject=;)) me would be the quickest way to talk to me!
+
+You can find me here:
+[Instagram] (https://www.instagram.com/vmax258/)
+[Twitter] (https://twitter.com/vmax258/)
+[Medium] (https://veer258.medium.com/)
+[YouTube] (https://www.youtube.com/channel/UCsv0kp2aBmOcEXYEqI5fTiQ)
