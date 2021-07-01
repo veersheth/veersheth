@@ -8,8 +8,8 @@ Aside from programming, I like photography, shooting tech-focused YouTube videos
 [Emailing](mailtp:vtube258@gmail.com) me would be the quickest way to talk to me!
 
 You can find me here:
-*[Instagram](https://www.instagram.com/vmax258/)
-*[Twitter](https://twitter.com/vmax258/)
-*[Medium](veer258.medium.com)
-*[YouTube](https://www.youtube.com/channel/UCsv0kp2aBmOcEXYEqI5fTiQ)
+* [Instagram](https://www.instagram.com/vmax258/)
+* [Twitter](https://twitter.com/vmax258/)
+* [Medium](veer258.medium.com)
+* [YouTube](https://www.youtube.com/channel/UCsv0kp2aBmOcEXYEqI5fTiQ)
 
