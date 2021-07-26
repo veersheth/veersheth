@@ -1,6 +1,6 @@
 # Hi, I'm Veer!👋🏼
 
-###I'm a Student, Tech Enthusiast, Digital Artist, and Programmer with an eye for creativity.
+### I'm a Student, Tech Enthusiast, Digital Artist, and Programmer with an eye for creativity.
 
 I can make websites and web apps and also, scripts using Python.
 Aside from programming, I like photography, shooting tech-focused YouTube videos and making digital art for my Instagram page.
