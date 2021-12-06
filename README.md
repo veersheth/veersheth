@@ -1,4 +1,4 @@
-# Hi, I'm Veer!👋🏼
+# Hi, I'm Veer!
 
 ### I'm a Student, Tech Enthusiast, Digital Artist, and Programmer with an eye for creativity.
 
