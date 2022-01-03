@@ -10,7 +10,7 @@ Aside from programming, I like photography, writing for my blog, shooting tech-f
 [Emailing](mailto:vtube258@gmail.com) me would be the quickest way to contact me!
 
 You can find me here:
-* [My Website](https://vmax258.github.io/)
+* [My Website](https://veer258.github.io/)
 * [Instagram](https://www.instagram.com/vmax258/)
 * [Twitter](https://twitter.com/vmax258/)
 * [Medium](veer258.medium.com)
