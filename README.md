@@ -1,8 +1,8 @@
-# Hi, I'm Veer!
+### Hi, I'm Veer!
 
-I'm a student at UNSW
-I can make websites, web apps and short scripts.
-I'm fluent in Dart, Python, HTML, CSS, JavaScript, Flutter, React, Bootstrap, Node, and Git.
+- I'm a student at UNSW
+- I can make websites, web apps and short scripts.
+- I'm fluent in Dart, Python, HTML, CSS, JavaScript, Flutter, React, Bootstrap, Node, and Git.
 Thank you for coming to my Ted Talk.
 
 ---
