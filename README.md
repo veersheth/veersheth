@@ -3,8 +3,8 @@
 - I'm a first year Computer Science student at UNSW, Sydney
 - I can make websites, web apps and short scripts.
 - I'm fluent in Dart, Python, HTML, CSS, JavaScript, Flutter, React, Bootstrap, Node, and Git.
-<br>
-_Thank you for coming to my Ted Talk._
+
+> Thank you for coming to my Ted Talk.
 
 ---
 
