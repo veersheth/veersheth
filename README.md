@@ -4,11 +4,11 @@
 - I can make websites, web apps and short scripts.
 - I'm fluent in Dart, Python, HTML, CSS, JavaScript, Flutter, React, Bootstrap, Node, and Git.
 <br>
-Thank you for coming to my Ted Talk.
+> _Thank you for coming to my Ted Talk._
 
 ---
 
-Aside from programming, I like photography, writing for my blog, shooting tech-focused YouTube videos and making digital art.
+Aside from programming, I like photography, writing for my blog, playing the guitar and making digital art.
 
 [Emailing](mailto:veerksheth@gmail.com) me would be the quickest way to contact me!
 
