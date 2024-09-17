@@ -10,7 +10,7 @@
 
 Aside from programming, I like photography, writing for my blog, playing the guitar and making digital art.
 
-[Emailing](mailto:veerksheth@gmail.com) me would be the quickest way to contact me!
+[Email](mailto:veerksheth@gmail.com) would be the quickest way to contact me!
 
 You can find me here:
 * [My Website](https://veersheth.github.io/)
