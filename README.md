@@ -1,20 +1,12 @@
 ### Hi, I'm Veer!
 
-- I'm a second year Computer Science student at UNSW, Sydney
-- I can make websites, web apps and short scripts.
-- I'm fluent in Dart, Python, HTML, CSS, JavaScript, Flutter, React, Bootstrap, Node, and Git.
+I'm a second year Computer Science student at UNSW, Sydney, and want to eventually pursue AI/ML.
 
-> Thank you for coming to my Ted Talk.
+I'm into photography, writing, and music. 
 
----
+[Email](mailto:veerksheth@gmail.com)
 
-Aside from programming, I like photography, writing for my blog, playing the guitar and making digital art.
-
-[Email](mailto:veerksheth@gmail.com) would be the quickest way to contact me!
-
-You can find me here:
+Other links:
 * [My Website](https://veersheth.github.io/)
 * [Instagram](https://www.instagram.com/vmax258/)
-* [Twitter](https://twitter.com/vmax258/)
 * [Medium](veersheth.medium.com)
-* [YouTube](https://www.youtube.com/channel/UCsv0kp2aBmOcEXYEqI5fTiQ)
