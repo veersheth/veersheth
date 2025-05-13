@@ -1,12 +1,5 @@
-### Hi, I'm Veer!
+2nd year Computer Science student at UNSW. lorem ipsem yada yada i'm passionate about coding and design and programming and passsion. 
 
-I'm a second year Computer Science student at UNSW, Sydney, and want to eventually pursue AI/ML.
-
-I'm into photography, writing, and music. 
-
-[Email](mailto:veerksheth@gmail.com)
-
-Other links:
-* [My Website](https://veersheth.github.io/)
-* [Instagram](https://www.instagram.com/vmax258/)
-* [Medium](veersheth.medium.com)
+- [mail](mailto:veerksheth@gmail.com)
+- [my over engineered website](https://veersheth.in/)
+- [blog (i'm literate like that)](veersheth.medium.com)
