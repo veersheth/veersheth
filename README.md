@@ -4,4 +4,4 @@ Lorem Ipsum yada yada. I'm passionate about coding and design and programming an
 
 - [mail](mailto:veerksheth@gmail.com)
 - [my over engineered website](https://veersheth.in/)
-- [blog (i'm literate like that)](veersheth.medium.com)
+- [blog (i'm literate like that (sometimes))](veersheth.medium.com)
